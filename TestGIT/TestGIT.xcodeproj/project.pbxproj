@@ -39,20 +39,20 @@
 		57E55BE61339959300885242 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		57E55BE81339959300885242 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		57E55BEA1339959300885242 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		57E55BEE1339959300885242 /* TestGIT-Info.plist */ = {isa = PBXFileReference; path = "TestGIT-Info.plist"; sourceTree = "<group>"; };
+		57E55BEE1339959300885242 /* TestGIT-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGIT-Info.plist"; sourceTree = "<group>"; };
 		57E55BF01339959300885242 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		57E55BF21339959300885242 /* TestGIT-Prefix.pch */ = {isa = PBXFileReference; path = "TestGIT-Prefix.pch"; sourceTree = "<group>"; };
+		57E55BF21339959300885242 /* TestGIT-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGIT-Prefix.pch"; sourceTree = "<group>"; };
 		57E55BF31339959300885242 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		57E55BF51339959300885242 /* TestGITAppDelegate.h */ = {isa = PBXFileReference; path = TestGITAppDelegate.h; sourceTree = "<group>"; };
+		57E55BF51339959300885242 /* TestGITAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGITAppDelegate.h; sourceTree = "<group>"; };
 		57E55BF61339959300885242 /* TestGITAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGITAppDelegate.m; sourceTree = "<group>"; };
 		57E55BF91339959400885242 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		57E55BFB1339959400885242 /* TestGITViewController.h */ = {isa = PBXFileReference; path = TestGITViewController.h; sourceTree = "<group>"; };
+		57E55BFB1339959400885242 /* TestGITViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGITViewController.h; sourceTree = "<group>"; };
 		57E55BFC1339959400885242 /* TestGITViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGITViewController.m; sourceTree = "<group>"; };
 		57E55BFF1339959400885242 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TestGITViewController.xib; sourceTree = "<group>"; };
 		57E55C061339959400885242 /* TestGITTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGITTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		57E55C0E1339959400885242 /* TestGITTests-Info.plist */ = {isa = PBXFileReference; path = "TestGITTests-Info.plist"; sourceTree = "<group>"; };
+		57E55C0E1339959400885242 /* TestGITTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGITTests-Info.plist"; sourceTree = "<group>"; };
 		57E55C101339959400885242 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		57E55C121339959400885242 /* TestGITTests-Prefix.pch */ = {isa = PBXFileReference; path = "TestGITTests-Prefix.pch"; sourceTree = "<group>"; };
+		57E55C121339959400885242 /* TestGITTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGITTests-Prefix.pch"; sourceTree = "<group>"; };
 		57E55C131339959400885242 /* TestGITTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGITTests.h; sourceTree = "<group>"; };
 		57E55C151339959400885242 /* TestGITTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGITTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
